@@ -1,4 +1,5 @@
-知周所众，Jvav是张博士发冥的Java内厕版
+你好,这里是骇浪!
+Hello,I'm HaiLang
 
 <!---
 2010Lxy/2010Lxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
